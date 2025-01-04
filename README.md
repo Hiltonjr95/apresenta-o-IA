@@ -23,19 +23,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Fiz um vídeo de apresentação falando um pouco sobre mim  e meus objetivos
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Studio-ID
+RemoveBG
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o Studio-ID para criar o vídeo, fiz uma gravação da minha voz pelo meu celular e fiz o upload no Studio-ID, usei o
+RemoveBG para colocar o plano de fundo e fiz o upload no Studio-ID
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+
+
 ```
 
 ### Exemplos e Insigths
