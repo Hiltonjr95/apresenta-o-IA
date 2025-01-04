@@ -34,7 +34,7 @@ Utilizei o Studio-ID para criar o vídeo, fiz uma gravação da minha voz pelo m
 RemoveBG para colocar o plano de fundo e fiz o upload no Studio-ID
 
 ## 🚀 Resultados
-
+https://studio.d-id.com/share?id=e5699a37d04ccf17db66c1a84f84a631&utm_source=copy
 
 
 ```
